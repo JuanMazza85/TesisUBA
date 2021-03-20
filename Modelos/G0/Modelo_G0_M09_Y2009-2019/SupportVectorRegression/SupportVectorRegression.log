@@ -1,0 +1,22 @@
+2020-09-06 20:11:08,018 Results for SVR 1 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 0, C: 1] -> MAE:0.48 | ExpVar:-0.71
+2020-09-06 20:11:08,019 Results for SVR 2 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 5, C: 2] -> MAE:0.55 | ExpVar:-1.22
+2020-09-06 20:11:08,021 Results for SVR 3 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 10, C: 3] -> MAE:0.55 | ExpVar:-1.3
+2020-09-06 20:11:08,022 Results for SVR 4 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 15, C: 4] -> MAE:0.56 | ExpVar:-1.39
+2020-09-06 20:11:08,024 Results for SVR 5 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 20, C: 5] -> MAE:0.56 | ExpVar:-1.45
+2020-09-06 20:11:08,025 Results for SVR 6 [Kernel: poly, Degree: 1, Gamma: auto, Coef: 0, C: 1] -> MAE:0.74 | ExpVar:-1.34
+2020-09-06 20:11:08,027 Results for SVR 7 [Kernel: poly, Degree: 2, Gamma: auto, Coef: 5, C: 2] -> MAE:0.79 | ExpVar:-2.02
+2020-09-06 20:11:08,030 Results for SVR 8 [Kernel: poly, Degree: 3, Gamma: auto, Coef: 10, C: 3] -> MAE:0.63 | ExpVar:-1.17
+2020-09-06 20:11:08,032 Results for SVR 9 [Kernel: poly, Degree: 4, Gamma: auto, Coef: 15, C: 4] -> MAE:0.67 | ExpVar:-1.2
+2020-09-06 20:11:08,035 Results for SVR 10 [Kernel: poly, Degree: 5, Gamma: auto, Coef: 20, C: 5] -> MAE:0.69 | ExpVar:-1.24
+2020-09-06 20:11:08,036 Results for SVR 11 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 0, C: 1] -> MAE:0.42 | ExpVar:-0.27
+2020-09-06 20:11:08,037 Results for SVR 12 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 5, C: 2] -> MAE:0.38 | ExpVar:0.02
+2020-09-06 20:11:08,039 Results for SVR 13 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 10, C: 3] -> MAE:0.39 | ExpVar:0.0
+2020-09-06 20:11:08,040 Results for SVR 14 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 15, C: 4] -> MAE:0.39 | ExpVar:0.0
+2020-09-06 20:11:08,041 Results for SVR 15 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 20, C: 5] -> MAE:0.39 | ExpVar:0.0
+2020-09-06 20:11:08,043 Results for SVR 16 [Kernel: poly, Degree: 12, Gamma: auto, Coef: 0, C: 1] -> MAE:2.72 | ExpVar:-315.74
+2020-09-06 20:11:08,043 Best Model:
+2020-09-06 20:11:08,043 Kernel:sigmoid
+2020-09-06 20:11:08,043 Degree:0
+2020-09-06 20:11:08,044 Gamma:auto
+2020-09-06 20:11:08,044 Coef:5
+2020-09-06 20:11:08,044 C:2

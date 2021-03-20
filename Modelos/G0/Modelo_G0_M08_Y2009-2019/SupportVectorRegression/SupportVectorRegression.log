@@ -1,0 +1,22 @@
+2020-09-06 20:11:06,945 Results for SVR 1 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 0, C: 1] -> MAE:0.35 | ExpVar:0.47
+2020-09-06 20:11:06,947 Results for SVR 2 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 5, C: 2] -> MAE:0.45 | ExpVar:0.36
+2020-09-06 20:11:06,948 Results for SVR 3 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 10, C: 3] -> MAE:0.51 | ExpVar:0.16
+2020-09-06 20:11:06,950 Results for SVR 4 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 15, C: 4] -> MAE:0.55 | ExpVar:0.0
+2020-09-06 20:11:06,951 Results for SVR 5 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 20, C: 5] -> MAE:0.56 | ExpVar:-0.11
+2020-09-06 20:11:06,954 Results for SVR 6 [Kernel: poly, Degree: 1, Gamma: auto, Coef: 0, C: 1] -> MAE:0.24 | ExpVar:0.46
+2020-09-06 20:11:06,955 Results for SVR 7 [Kernel: poly, Degree: 2, Gamma: auto, Coef: 5, C: 2] -> MAE:0.42 | ExpVar:-0.15
+2020-09-06 20:11:06,958 Results for SVR 8 [Kernel: poly, Degree: 3, Gamma: auto, Coef: 10, C: 3] -> MAE:0.98 | ExpVar:-4.35
+2020-09-06 20:11:06,962 Results for SVR 9 [Kernel: poly, Degree: 4, Gamma: auto, Coef: 15, C: 4] -> MAE:0.97 | ExpVar:-4.1
+2020-09-06 20:11:06,965 Results for SVR 10 [Kernel: poly, Degree: 5, Gamma: auto, Coef: 20, C: 5] -> MAE:0.96 | ExpVar:-3.99
+2020-09-06 20:11:06,967 Results for SVR 11 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 0, C: 1] -> MAE:0.37 | ExpVar:-0.07
+2020-09-06 20:11:06,968 Results for SVR 12 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 5, C: 2] -> MAE:0.27 | ExpVar:-0.01
+2020-09-06 20:11:06,969 Results for SVR 13 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 10, C: 3] -> MAE:0.27 | ExpVar:-0.0
+2020-09-06 20:11:06,971 Results for SVR 14 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 15, C: 4] -> MAE:0.27 | ExpVar:0.0
+2020-09-06 20:11:06,972 Results for SVR 15 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 20, C: 5] -> MAE:0.27 | ExpVar:0.0
+2020-09-06 20:11:06,974 Results for SVR 16 [Kernel: poly, Degree: 12, Gamma: auto, Coef: 0, C: 1] -> MAE:0.26 | ExpVar:0.23
+2020-09-06 20:11:06,974 Best Model:
+2020-09-06 20:11:06,974 Kernel:poly
+2020-09-06 20:11:06,974 Degree:1
+2020-09-06 20:11:06,974 Gamma:auto
+2020-09-06 20:11:06,975 Coef:0
+2020-09-06 20:11:06,975 C:1

@@ -1,0 +1,22 @@
+2020-09-06 20:11:29,975 Results for SVR 1 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 0, C: 1] -> MAE:0.68 | ExpVar:0.54
+2020-09-06 20:11:29,976 Results for SVR 2 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 5, C: 2] -> MAE:0.67 | ExpVar:0.56
+2020-09-06 20:11:29,977 Results for SVR 3 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 10, C: 3] -> MAE:0.65 | ExpVar:0.57
+2020-09-06 20:11:29,979 Results for SVR 4 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 15, C: 4] -> MAE:0.65 | ExpVar:0.57
+2020-09-06 20:11:29,980 Results for SVR 5 [Kernel: rbf, Degree: 0, Gamma: auto, Coef: 20, C: 5] -> MAE:0.65 | ExpVar:0.57
+2020-09-06 20:11:29,982 Results for SVR 6 [Kernel: poly, Degree: 1, Gamma: auto, Coef: 0, C: 1] -> MAE:0.76 | ExpVar:0.7
+2020-09-06 20:11:29,984 Results for SVR 7 [Kernel: poly, Degree: 2, Gamma: auto, Coef: 5, C: 2] -> MAE:0.83 | ExpVar:0.44
+2020-09-06 20:11:29,986 Results for SVR 8 [Kernel: poly, Degree: 3, Gamma: auto, Coef: 10, C: 3] -> MAE:0.83 | ExpVar:0.45
+2020-09-06 20:11:29,988 Results for SVR 9 [Kernel: poly, Degree: 4, Gamma: auto, Coef: 15, C: 4] -> MAE:0.83 | ExpVar:0.46
+2020-09-06 20:11:29,990 Results for SVR 10 [Kernel: poly, Degree: 5, Gamma: auto, Coef: 20, C: 5] -> MAE:0.83 | ExpVar:0.46
+2020-09-06 20:11:29,991 Results for SVR 11 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 0, C: 1] -> MAE:0.81 | ExpVar:0.76
+2020-09-06 20:11:29,993 Results for SVR 12 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 5, C: 2] -> MAE:0.98 | ExpVar:0.0
+2020-09-06 20:11:29,995 Results for SVR 13 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 10, C: 3] -> MAE:0.98 | ExpVar:0.0
+2020-09-06 20:11:29,996 Results for SVR 14 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 15, C: 4] -> MAE:0.98 | ExpVar:0.0
+2020-09-06 20:11:29,998 Results for SVR 15 [Kernel: sigmoid, Degree: 0, Gamma: auto, Coef: 20, C: 5] -> MAE:0.98 | ExpVar:-0.0
+2020-09-06 20:11:30,000 Results for SVR 16 [Kernel: poly, Degree: 12, Gamma: auto, Coef: 0, C: 1] -> MAE:0.96 | ExpVar:0.06
+2020-09-06 20:11:30,000 Best Model:
+2020-09-06 20:11:30,000 Kernel:rbf
+2020-09-06 20:11:30,000 Degree:0
+2020-09-06 20:11:30,000 Gamma:auto
+2020-09-06 20:11:30,001 Coef:10
+2020-09-06 20:11:30,001 C:3

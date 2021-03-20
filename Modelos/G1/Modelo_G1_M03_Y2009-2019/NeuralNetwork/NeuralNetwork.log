@@ -1,0 +1,55 @@
+2020-09-06 21:58:38,852 Results for NN 1 [Capas: 2 Neuronas: 64 Funcion: linear Optimizer: nadam, Dropout: 0] -> MAE: 0.74 | ExpVar: -0.1
+2020-09-06 21:58:47,989 Results for NN 2 [Capas: 2 Neuronas: 64 Funcion: linear Optimizer: nadam, Dropout: 0.1] -> MAE: 0.72 | ExpVar: -0.05
+2020-09-06 21:58:55,473 Results for NN 3 [Capas: 2 Neuronas: 64 Funcion: linear Optimizer: nadam, Dropout: 0.25] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 21:58:59,116 Results for NN 4 [Capas: 2 Neuronas: 64 Funcion: linear Optimizer: adadelta, Dropout: 0] -> MAE: 0.7 | ExpVar: 0.0
+2020-09-06 21:59:10,925 Results for NN 5 [Capas: 2 Neuronas: 64 Funcion: linear Optimizer: adadelta, Dropout: 0.1] -> MAE: 0.69 | ExpVar: 0.01
+2020-09-06 21:59:14,602 Results for NN 6 [Capas: 2 Neuronas: 64 Funcion: linear Optimizer: adadelta, Dropout: 0.25] -> MAE: 0.69 | ExpVar: 0.01
+2020-09-06 21:59:18,582 Results for NN 7 [Capas: 2 Neuronas: 64 Funcion: relu Optimizer: nadam, Dropout: 0] -> MAE: 0.66 | ExpVar: 0.38
+2020-09-06 21:59:30,802 Results for NN 8 [Capas: 2 Neuronas: 64 Funcion: relu Optimizer: nadam, Dropout: 0.1] -> MAE: 0.7 | ExpVar: 0.31
+2020-09-06 21:59:34,861 Results for NN 9 [Capas: 2 Neuronas: 64 Funcion: relu Optimizer: nadam, Dropout: 0.25] -> MAE: 0.68 | ExpVar: 0.2
+2020-09-06 21:59:44,888 Results for NN 10 [Capas: 2 Neuronas: 64 Funcion: relu Optimizer: adadelta, Dropout: 0] -> MAE: 0.69 | ExpVar: -0.0
+2020-09-06 21:59:50,325 Results for NN 11 [Capas: 2 Neuronas: 64 Funcion: relu Optimizer: adadelta, Dropout: 0.1] -> MAE: 0.69 | ExpVar: -0.0
+2020-09-06 21:59:55,305 Results for NN 12 [Capas: 2 Neuronas: 64 Funcion: relu Optimizer: adadelta, Dropout: 0.25] -> MAE: 0.7 | ExpVar: -0.0
+2020-09-06 22:00:07,849 Results for NN 13 [Capas: 2 Neuronas: 128 Funcion: linear Optimizer: nadam, Dropout: 0] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:00:11,985 Results for NN 14 [Capas: 2 Neuronas: 128 Funcion: linear Optimizer: nadam, Dropout: 0.1] -> MAE: 0.59 | ExpVar: 0.41
+2020-09-06 22:00:24,176 Results for NN 15 [Capas: 2 Neuronas: 128 Funcion: linear Optimizer: nadam, Dropout: 0.25] -> MAE: 0.72 | ExpVar: -0.07
+2020-09-06 22:00:28,001 Results for NN 16 [Capas: 2 Neuronas: 128 Funcion: linear Optimizer: adadelta, Dropout: 0] -> MAE: 0.7 | ExpVar: -0.01
+2020-09-06 22:00:31,891 Results for NN 17 [Capas: 2 Neuronas: 128 Funcion: linear Optimizer: adadelta, Dropout: 0.1] -> MAE: 0.7 | ExpVar: -0.01
+2020-09-06 22:00:43,793 Results for NN 18 [Capas: 2 Neuronas: 128 Funcion: linear Optimizer: adadelta, Dropout: 0.25] -> MAE: 0.7 | ExpVar: 0.0
+2020-09-06 22:00:47,830 Results for NN 19 [Capas: 2 Neuronas: 128 Funcion: relu Optimizer: nadam, Dropout: 0] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:00:53,724 Results for NN 20 [Capas: 2 Neuronas: 128 Funcion: relu Optimizer: nadam, Dropout: 0.1] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:01:04,278 Results for NN 21 [Capas: 2 Neuronas: 128 Funcion: relu Optimizer: nadam, Dropout: 0.25] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:01:10,592 Results for NN 22 [Capas: 2 Neuronas: 128 Funcion: relu Optimizer: adadelta, Dropout: 0] -> MAE: 0.69 | ExpVar: -0.0
+2020-09-06 22:01:18,924 Results for NN 23 [Capas: 2 Neuronas: 128 Funcion: relu Optimizer: adadelta, Dropout: 0.1] -> MAE: 0.71 | ExpVar: -0.01
+2020-09-06 22:01:26,890 Results for NN 24 [Capas: 2 Neuronas: 128 Funcion: relu Optimizer: adadelta, Dropout: 0.25] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:01:32,091 Results for NN 25 [Capas: 6 Neuronas: 64 Funcion: linear Optimizer: nadam, Dropout: 0] -> MAE: 0.74 | ExpVar: -0.11
+2020-09-06 22:01:45,721 Results for NN 26 [Capas: 6 Neuronas: 64 Funcion: linear Optimizer: nadam, Dropout: 0.1] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:01:51,234 Results for NN 27 [Capas: 6 Neuronas: 64 Funcion: linear Optimizer: nadam, Dropout: 0.25] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:02:03,592 Results for NN 28 [Capas: 6 Neuronas: 64 Funcion: linear Optimizer: adadelta, Dropout: 0] -> MAE: 0.69 | ExpVar: -0.0
+2020-09-06 22:02:08,491 Results for NN 29 [Capas: 6 Neuronas: 64 Funcion: linear Optimizer: adadelta, Dropout: 0.1] -> MAE: 0.69 | ExpVar: -0.0
+2020-09-06 22:02:15,270 Results for NN 30 [Capas: 6 Neuronas: 64 Funcion: linear Optimizer: adadelta, Dropout: 0.25] -> MAE: 0.69 | ExpVar: -0.0
+2020-09-06 22:02:26,506 Results for NN 31 [Capas: 6 Neuronas: 64 Funcion: relu Optimizer: nadam, Dropout: 0] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:02:37,046 Results for NN 32 [Capas: 6 Neuronas: 64 Funcion: relu Optimizer: nadam, Dropout: 0.1] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:02:45,507 Results for NN 33 [Capas: 6 Neuronas: 64 Funcion: relu Optimizer: nadam, Dropout: 0.25] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:02:49,732 Results for NN 34 [Capas: 6 Neuronas: 64 Funcion: relu Optimizer: adadelta, Dropout: 0] -> MAE: 0.69 | ExpVar: -0.0
+2020-09-06 22:03:02,435 Results for NN 35 [Capas: 6 Neuronas: 64 Funcion: relu Optimizer: adadelta, Dropout: 0.1] -> MAE: 0.69 | ExpVar: -0.0
+2020-09-06 22:03:07,065 Results for NN 36 [Capas: 6 Neuronas: 64 Funcion: relu Optimizer: adadelta, Dropout: 0.25] -> MAE: 0.69 | ExpVar: -0.0
+2020-09-06 22:03:20,536 Results for NN 37 [Capas: 6 Neuronas: 128 Funcion: linear Optimizer: nadam, Dropout: 0] -> MAE: 0.69 | ExpVar: -0.0
+2020-09-06 22:03:26,495 Results for NN 38 [Capas: 6 Neuronas: 128 Funcion: linear Optimizer: nadam, Dropout: 0.1] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:03:40,315 Results for NN 39 [Capas: 6 Neuronas: 128 Funcion: linear Optimizer: nadam, Dropout: 0.25] -> MAE: 0.74 | ExpVar: -0.08
+2020-09-06 22:03:45,051 Results for NN 40 [Capas: 6 Neuronas: 128 Funcion: linear Optimizer: adadelta, Dropout: 0] -> MAE: 0.69 | ExpVar: -0.0
+2020-09-06 22:03:50,338 Results for NN 41 [Capas: 6 Neuronas: 128 Funcion: linear Optimizer: adadelta, Dropout: 0.1] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:04:03,750 Results for NN 42 [Capas: 6 Neuronas: 128 Funcion: linear Optimizer: adadelta, Dropout: 0.25] -> MAE: 0.69 | ExpVar: -0.0
+2020-09-06 22:04:09,226 Results for NN 43 [Capas: 6 Neuronas: 128 Funcion: relu Optimizer: nadam, Dropout: 0] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:04:23,198 Results for NN 44 [Capas: 6 Neuronas: 128 Funcion: relu Optimizer: nadam, Dropout: 0.1] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:04:29,074 Results for NN 45 [Capas: 6 Neuronas: 128 Funcion: relu Optimizer: nadam, Dropout: 0.25] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:04:41,716 Results for NN 46 [Capas: 6 Neuronas: 128 Funcion: relu Optimizer: adadelta, Dropout: 0] -> MAE: 0.69 | ExpVar: -0.0
+2020-09-06 22:04:49,518 Results for NN 47 [Capas: 6 Neuronas: 128 Funcion: relu Optimizer: adadelta, Dropout: 0.1] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:05:03,793 Results for NN 48 [Capas: 6 Neuronas: 128 Funcion: relu Optimizer: adadelta, Dropout: 0.25] -> MAE: 0.69 | ExpVar: 0.0
+2020-09-06 22:05:03,794 Best Model:
+2020-09-06 22:05:03,795 Layers:2
+2020-09-06 22:05:03,795 Neurons per Layer:128
+2020-09-06 22:05:03,796 Activation f(x):linear
+2020-09-06 22:05:03,797 Optimizer:nadam
+2020-09-06 22:05:03,798 Dropout:0.1
+2020-09-06 22:05:20,641 Assets written to: C:\Users\Juani\OneDrive\Juani\Maestria\Tesis Clima\Modelos\G1\Modelo_G1_M03_Y2009-2019\NeuralNetwork\assets
